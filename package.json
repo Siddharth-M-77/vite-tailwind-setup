@@ -1,0 +1,12 @@
+{
+  "name": "vite-tailwind-setup",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "setup": "node setup.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
