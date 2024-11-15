@@ -1,12 +1,30 @@
 {
-  "name": "vite-tailwind-setup",
-  "version": "1.0.0",
-  "description": "",
-  "type": "module",
-  "scripts": {
-    "setup": "node setup.js"
+  "name": "vite-tailwind-quickstart",
+  "version": "1.1.2", 
+  "description": "Quick and easy setup for React projects with Vite and Tailwind CSS.",
+  "main": "setup.js",
+  "bin": {
+    "vite-tailwind": "./setup.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "scripts": {
+    "start": "node setup.js"
+  },
+  "author": "Siddharth Madheshiya",
+  "license": "MIT",
+  "dependencies": {},
+  "keywords": [
+    "vite",
+    "tailwindcss",
+    "react",
+    "react setup",
+    "vite setup",
+    "tailwind setup",
+    "react vite",
+    "frontend setup",
+    "web development",
+    "tailwind css setup"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
 }
